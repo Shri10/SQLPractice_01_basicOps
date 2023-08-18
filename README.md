@@ -6,8 +6,7 @@ This repository contains SQL Server scripts demonstrating various SQL concepts.
 ## 📝 Instructions / Guidelines
 
 1. This repository is solely for demonstration purposes.
-	While you're encouraged to peruse the content, there's no need for you to implement or run any scripts.
-	This repository primarily showcases my implementations and expertise.
+	It primarily showcases my implementations.
 
 2. If you wish to delve deeper, just open the relevant `.sql` file using SQL Server Management Studio or any SQL client of your choice.
 
