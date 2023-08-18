@@ -10,7 +10,7 @@ This repository contains SQL Server scripts demonstrating various SQL concepts.
 
 2. If you wish to delve deeper, just open the relevant `.sql` file using SQL Server Management Studio or any SQL client of your choice.
 
-3. **DO AT YOUR OWN RISK**.
+3. **IMPLEMENT AT YOUR OWN RISK**.
 
 
 ## 📁 Files
@@ -27,7 +27,7 @@ Below is a brief overview of the SQL scripts available in this repository:
 
 ## 🚀 Getting Started
 
-Preferably, check the following files for a guided experience:
+Preferably, check the following files:
 
 - [DemonstrationSec1,2,3,4.sql](./DemonstrationSec1,2,3,4.sql)
 - [DemonstrationSec6,8.sql](./DemonstrationSec6,8.sql)
